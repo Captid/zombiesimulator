@@ -1,4 +1,4 @@
-# zombiesim
+# zombie simulator
 Zombie simulator is and simulation 1 player to all zombies
 
 BE CAREFUL TAP INSTALL ANYWAYS BEFORE USE THIS APP IF YOU'RE ANDROID
